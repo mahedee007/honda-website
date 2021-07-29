@@ -58,6 +58,35 @@ hr {
   /* width: 80%; */
   filter: grayscale(100%);
 }
-.main-img {
-  /* width: 80%; */
+/*------------------
+ FEEDBACK SECTION 
+ -------------------*/
+#feedback {
+  font-family: "Poppins", sans-serif;
+  margin-top: 9rem;
+}
+.feedback-title {
+  font-size: 3rem;
+  font-weight: 600;
+}
+.feedback-text {
+  color: #6c6c6c;
+  font-size: 1rem;
+}
+
+.feedback-title span {
+  color: #e76f51;
+}
+.yellow-fab {
+  color: #e77c40;
+}
+.blank-fab {
+  color: #e77c40;
+}
+.author-name {
+  color: #23a6f0;
+  font-weight: 600;
+}
+.author-job {
+  font-weight: 600;
 }
