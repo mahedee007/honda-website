@@ -1,3 +1,63 @@
-Body {
+/* ----------------
+Hero section 
+-------------------*/
+#hero-section {
+  width: 100%;
+  background-color: rgba(38, 70, 83, 1);
   font-family: "Poppins", sans-serif;
+}
+.hero-title {
+  font-size: 3rem;
+  font-weight: 600;
+  color: white;
+}
+.hero-text {
+  font-weight: 300;
+  font-size: 1rem;
+  color: #e0e0e0;
+}
+.purchase-btn {
+  background-color: #e76f51;
+  padding: 0.625rem 2.87rem;
+  font-weight: 500;
+  border: none;
+  color: white;
+}
+.purchase-btn:hover {
+  background-color: #e76f51;
+  color: white;
+}
+.hero-img {
+  width: 100%;
+}
+
+/*------------------
+ MAIN SECTION 
+ -------------------*/
+/*------------------
+ FEAUTURE SECTION 
+ -------------------*/
+#features {
+  font-family: "Poppins", sans-serif;
+}
+.feature-title {
+  font-size: 3rem;
+  font-weight: 600;
+}
+.feature-text {
+  color: #e76f51;
+  font-weight: 600;
+  padding-bottom: 0;
+}
+hr {
+  width: 10%;
+  margin: auto;
+  color: #e76f51;
+}
+.gray-img {
+  /* width: 80%; */
+  filter: grayscale(100%);
+}
+.main-img {
+  /* width: 80%; */
 }
