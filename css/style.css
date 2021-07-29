@@ -121,3 +121,28 @@ hr {
   font-weight: 600;
   color: #e77c40;
 }
+/*---------------------
+ SIGNUP SECTION 
+ ----------------------*/
+#sign-up {
+  font-family: "Poppins", sans-serif;
+  margin-top: 9rem;
+}
+.signup-title {
+  font-size: 3rem;
+  font-weight: 600;
+}
+.signup-title span {
+  color: #e77c40;
+}
+.signup-btn {
+  background-color: #e76f51;
+  padding: 0.625rem 2.87rem;
+  font-weight: 500;
+  border: none;
+  color: white;
+}
+.signup-btn:hover {
+  background-color: #e76f51;
+  color: white;
+}
