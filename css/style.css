@@ -90,3 +90,22 @@ hr {
 .author-job {
   font-weight: 600;
 }
+/*------------------
+ FAQ SECTION 
+ -------------------*/
+#faq {
+  font-family: "Poppins", sans-serif;
+  margin-top: 9rem;
+}
+
+.faq-title {
+  font-size: 3rem;
+  font-weight: 600;
+}
+.faq-title span {
+  color: #e77c40;
+}
+.accordion-title-btn {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
