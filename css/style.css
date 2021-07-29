@@ -109,3 +109,15 @@ hr {
   font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
+/*---------------------
+ SPECIFICATION SECTION 
+ ----------------------*/
+#specification {
+  font-family: "Poppins", sans-serif;
+  margin-top: 9rem;
+}
+.spec-title {
+  font-size: 3rem;
+  font-weight: 600;
+  color: #e77c40;
+}
